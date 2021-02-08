@@ -1,0 +1,19 @@
+body {
+    background-color: #c0dfe6;
+}
+
+.traffic-light {
+    width: 120px;
+    padding: 5px;
+    margin: 0 auto;
+    border-radius: 45px;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+.light {
+    width: 100px;
+    margin: 10px;
+    height: 100px;
+    cursor: pointer;
+    border-radius: 50%;
+}
